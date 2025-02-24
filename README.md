@@ -93,7 +93,7 @@ Task_Management_App/
 1. **Clonar el repositorio**
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MichaelVairoDev/Task_Management_App.git
 cd Task_Management_App
 ```
 
